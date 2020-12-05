@@ -9,13 +9,19 @@ Baixar os seguintes arquivos:
 Votação em partido por município e zona 
 
 Arquivo completo: 
+
 votacao_partido_munzona_2016_BRASIL
+
 votacao_partido_munzona_2018_BRASIL
+
 votacao_partido_munzona_2020_BRASIL
 
 Arquivo de todo o Brasil: 
+
 "votacao_partido_munzona_2016_BRASIL.csv"
+
 "votacao_partido_munzona_2018_BRASIL"
+
 "votacao_partido_munzona_2020_BRASIL.csv"
 
 
